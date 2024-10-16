@@ -13,6 +13,8 @@ int main()
     int sum=0;
     int prod=0;
     sumult(a,b,&sum,&prod);
+
+    
     printf("%d+%d=%d\n",a,b,sum);
     printf("%d*%d=%d\n",a,b,prod);
 }

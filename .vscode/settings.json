@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "swap2.C": "cpp"
+        "swap2.C": "cpp",
+        "tab2.C": "cpp"
     }
 }
