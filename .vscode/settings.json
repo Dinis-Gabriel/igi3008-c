@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "swap2.C": "cpp",
-        "tab2.C": "cpp"
+        "tab2.C": "cpp",
+        "liste-chainetest.C": "cpp"
     }
 }
